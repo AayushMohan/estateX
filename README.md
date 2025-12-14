@@ -49,8 +49,8 @@ Join our community of developers creating universal apps.
 
 ![EstateX Screenshot](assets/images/estateX.png)
 
-## Demo Video
+## Demo (GIF)
 
-<video src="assets/estateXS.mov" controls loop muted playsinline style="max-width:100%;width:100%"></video>
+![EstateX Demo](assets/estateXS.gif)
 
-If the embedded video doesn’t play in your viewer, you can download or open it directly: [assets/estateXS.mov](assets/estateXS.mov)
+Caption: Property browsing flow showcasing featured listings, explore, and details.
